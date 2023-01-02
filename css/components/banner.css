@@ -1,0 +1,7 @@
+.banner{
+	background-image: url(../../imagess/view.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
